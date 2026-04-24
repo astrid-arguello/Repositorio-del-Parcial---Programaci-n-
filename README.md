@@ -39,15 +39,6 @@ Limitar acciones según el rol del usuario (admin o visitante)
 
 Tabla Usuarios
 
-
-Columna	Tipo de dato	Límite	¿Es nulo?	Descripción
-identificación	INT	-	No	Identificador único del usuario
-usuario	VARCHAR	50	No	Nombre de usuario
-contraseña	VARCHAR	50	No	Contraseña de usuario
-rol	VARCHAR	50	No	Tipo de usuario (admin o visitante)
-
-
-
 | Columna  | Tipo de dato | Límite | ¿Es nulo? | Descripción                         |
 | -------- | ------------ | ------ | --------- | ----------------------------------- |
 | id       | INT          | -      | No        | Identificador único del usuario     |
